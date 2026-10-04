@@ -1,8 +1,7 @@
 #### Mohamed Ahmed Khalil - 500 Days of Software
 
-#### Week 1
+#### 1.Mon Sep 28 2026 :
 
-`1.Mon Sep 28 2026 :`
 Finished  
 - [x]  Metric Types
 - [x]  Querying in Prometheus
