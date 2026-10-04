@@ -50,9 +50,9 @@ Created additional panel on my dashboard :
 ---
 ### `6.Sat Oct 3 2026 :`
 
-- I have installed Monitoring stack using helm charts.
-- Monitor Flask app (running in k8s) using this stack (prometheus ang grafana).
-- Know how "Service Monitor" is gathering related pods under one umbrella to collect data from it.
+- [x]  I have installed Monitoring stack using helm charts.
+- [x]  Monitor Flask app (running in k8s) using this stack (prometheus ang grafana).
+- [x]  Know how "Service Monitor" is gathering related pods under one umbrella to collect data from it.
  
 ---
 
