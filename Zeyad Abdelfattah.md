@@ -138,3 +138,13 @@
         [https://github.com/ZiadAbdElFatah/Design-Patterns/pull/3](https://github.com/ZiadAbdElFatah/Design-Patterns/pull/3)
 
 ---
+
+## Day 16 (4/10)
+
+- **OSTEP**
+	- Finished Chapter 8 - **Scheduling - The Multi-Level Feedback Queue** and Chapter 11 - **Summary Dialogue on CPU Virtualization**
+	- Watched Discussion: [intro to xv6](https://youtu.be/vR6z2QGcoo8)
+- **Search Engine project**
+	- The project is finally completed now https://github.com/ZiadAbdElFatah/Simple-search-engine
+
+---
