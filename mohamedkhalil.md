@@ -1,6 +1,6 @@
-#### Mohamed Ahmed Khalil - 500 Days of Software
+## Mohamed Ahmed Khalil - 500 Days of Software
 
-#### `1.Mon Sep 28 2026 :`
+### `1.Mon Sep 28 2026 :`
 
 Finished  
 - [x]  Metric Types
@@ -15,19 +15,19 @@ rate and irate (vectors) (counters and histogram) . delta (vectors)(guage)
 
 ---
 
-`2.Tue Sep 29  2026 :`
+### `2.Tue Sep 29  2026 :`
 - [x]  Averages (How to calculate average seconds per request over specific time) . Divide (duration rate) / (request rate) , duration = second / seconds , request rate = request / seconds .
 - [x]  Totals using **increase** function (calculate the number of requests per specific time) . 
 increase function deals with vector ranges
 
 ---
 
-`3.Wed Sep 30 2026 :`
+### `3.Wed Sep 30 2026 :`
 - [x]  Label manipulating (label replace , label join)
 - [x]  Resource Metrics
 
 ---
-`4.Thr Oct 1 2026 :`
+### `4.Thr Oct 1 2026 :`
 Focusing on transforming raw metrics data taken from prometheus into visualizations using grafana ,
 I created a dashboard , inside it some of panels :
 - [x]  Process uptime
@@ -36,7 +36,7 @@ I created a dashboard , inside it some of panels :
 - [x]  Average Request Duration
 
 ---
-`5.Fri Oct 2 2026 :`
+### `5.Fri Oct 2 2026 :`
 Created additional panel on my dashboard : 
 
 - [x]  number of requests in progress
@@ -48,7 +48,7 @@ Created additional panel on my dashboard :
 - [x]  GC Object Collection Rate per second (How many objects are no longer in use , are collected into the garbage per second)
 
 ---
-`6.Sat Oct 3 2026 :`
+### `6.Sat Oct 3 2026 :`
 
 - I have installed Monitoring stack using helm charts.
 - Monitor Flask app (running in k8s) using this stack (prometheus ang grafana).
