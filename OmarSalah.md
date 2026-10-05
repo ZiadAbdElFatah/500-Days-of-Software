@@ -1,6 +1,6 @@
-#### Omar Salah - 500 Days of Software
+## Omar Salah - 500 Days of Software
 
-#### Week 1
+### Week 1
 
 `1.Sunday Sep 13, 2026 :`
 - Learned EF Core basics: DbContext vs DbSet, providers, OnConfiguring vs DI
@@ -27,14 +27,14 @@
 `5.Friday Sep 18, 2026 :`
 - Built the Football Management System console app (ADO.NET → EF Core)
 - Added Match and Goal persistence, removed the ADO.NET layer, added the first migration and insertions, and fixed exceptions
-- Repo: https://github.com/omar-ahmed62/Football-Management-System-ConsoleApp
+- Repo: [Football-Management-System-ConsoleApp](https://github.com/omar-ahmed62/Football-Management-System-ConsoleApp)
 
 `6.Saturday Sep 19, 2026 :`
 - Completed EF Core duplicate validation for Country, Coach, Team, and Player
 - Improved the README (EF Core details, architecture)
-- Repo: https://github.com/omar-ahmed62/Football-Management-System-ConsoleApp
+- Repo: [Football-Management-System-ConsoleApp](https://github.com/omar-ahmed62/Football-Management-System-ConsoleApp)
 
-#### Week 2
+### Week 2
 
 `7.Monday Sep 21, 2026 :`
 - Started Phase 3 (Frontend). HTML Day 1: document structure, tags, attributes, text, links, images, block vs inline
@@ -57,7 +57,7 @@
 `13.Monday Sep 28, 2026 :`
 - CSS Day 4: border radius, counters, box shadows, box model, transitions, variables, margin collapse
 
-#### Week 3
+### Week 3
 
 `14.Thursday Oct 1, 2026 :`
 - CSS Day 5: flexbox, grid (part 1), filters, gradients, pointer events
@@ -67,8 +67,9 @@
 
 `16.Saturday Oct 3, 2026 :`
 - CSS Day 7: animation, selectors, media queries. Finished the CSS playlist
+- Notes: [Phase 3 notes](https://far-unicorn-4d7.notion.site/phase-3-Frontend-Fundamentals-3e28d5ed724c80fda6a1f32591dff0e6)
 
 `17.Monday Oct 5, 2026 :`
-- Practiced and applied HTML & CSS fundamentals
-Repo: [Football-Management-System-Frontend](https://github.com)
+- Practiced and applied HTML & CSS fundamentals 
+- Repo: [Football-Management-System-Frontend](https://github.com) 
  
