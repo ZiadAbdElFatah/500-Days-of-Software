@@ -61,5 +61,6 @@ Always run `git pull` first. This gets the new files from your friends and stops
 | Zeyad Abdelfattah | [Zeyad Abdelfattah.md](./Zeyad%20Abdelfattah.md) | [@ZiadAbdElFatah](https://github.com/ZiadAbdElFatah) |
 | Basel Hamdy | [baselhamdy.md](./baselhamdy.md) | [@BaselHamdy1](https://github.com/BaselHamdy1) |
 | Mohamed Khalil | [mohamedkhalil.md](./mohamedkhalil.md) | [@mohammd-khalil](https://github.com/mohammd-khalil) |
+| Omar Salah | [OmarSalah.md](./OmarSalah.md) | [@omar-ahmed62](https://github.com/omar-ahmed62) |
 
 Add your row to this table when you join.
