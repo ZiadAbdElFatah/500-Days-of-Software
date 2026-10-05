@@ -55,4 +55,10 @@ Created additional panel on my dashboard :
 - [x]  Know how "Service Monitor" is gathering related pods under one umbrella to collect data from it.
  
 ---
+### `7.Sun Oct 4 2026 :`
 
+- [x] Install MySQL Database into k8s using Helm .
+- [X] Configured Database Exporter , to export metrics data from database.
+- [X] Used Service Monitor to collect database pods with specific labels
+
+---
