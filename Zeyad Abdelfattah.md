@@ -148,3 +148,13 @@
 	- The project is finally completed now https://github.com/ZiadAbdElFatah/Simple-search-engine
 
 ---
+
+## Day 17 (5/10)
+
+- **OSTEP**
+	- Read a bit about xv6
+	- Watched Lecture 4: [Part 1](https://youtu.be/GwSHAEWPJuY) (scheduling continued - MLFQ)
+	- Watched discussion: [Shell project](https://youtu.be/wbpooA39jAA)
+	- Started in [Processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell)
+
+---
