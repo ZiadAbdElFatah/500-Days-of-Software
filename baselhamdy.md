@@ -2,14 +2,15 @@
 
 #### Week 3
 
-`1.Sunday Oct 4, 2026 :`
+`Day18 oct 4, 2026`
+
 - Learned the confusion matrix
 - Learned sensitivity and specificity
 - Learned ROC and AUC
 - Learned cross validation
 - Ran code for the classification metrics (sections 5-8 of `sklearn_classification_reference.ipynb`) and changed the threshold to see how the results change
 
-` 2.Monday Oct 5, 2026`
+`Day19 oct 5, 2026`
 
 1.Videos :
 
