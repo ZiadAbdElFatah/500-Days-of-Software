@@ -158,3 +158,9 @@
 	- Started in [Processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell)
 
 ---
+
+## Day 18 (6/10)
+- **OSTEP**
+    - Made a huge progress in the [Processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) (will be finished tomorrow)
+
+---
