@@ -71,5 +71,9 @@
 
 `17.Monday Oct 5, 2026 :`
 - Practiced and applied HTML & CSS fundamentals 
-- Repo: [Football-Management-System-Frontend](https://github.com) 
- 
+- Repo: [Football-Management-System-Frontend](https://github.com/omar-ahmed62/football-management-frontend) 
+
+`18.Tuesday Oct 6, 2026 :`
+- Deployed the frontend to GitHub Pages and refactored all colors into CSS variables and added Dark Mode with `prefers-color-scheme`
+- Added responsive design with a media query and global `box-sizing: border-box`
+- Repo: [Football-Management-System-Frontend](https://github.com/omar-ahmed62/football-management-frontend)
