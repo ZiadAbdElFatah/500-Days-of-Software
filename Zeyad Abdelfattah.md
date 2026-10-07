@@ -8,8 +8,6 @@
         [https://github.com/ZiadAbdElFatah/Simple-search-engine/pull/7](https://github.com/ZiadAbdElFatah/Simple-search-engine/pull/7)
 - Set up the environment for **OSTEP**
 
----
-
 ## Day 2  (20/9)
 
 - **OSTEP**  
@@ -20,9 +18,6 @@
 - **Search engine project**
     - Made some progress in adding boolean search query support
         [https://github.com/ZiadAbdElFatah/Simple-search-engine/pull/8](https://github.com/ZiadAbdElFatah/Simple-search-engine/pull/8)
-        
-
----
 
 ## Day 3 (21/9)
 
@@ -36,8 +31,6 @@
         [https://github.com/ZiadAbdElFatah/ostep-solutions/commit/ac5dfc140e440f212b0c0b65d4026c53f8c0a85e](https://github.com/ZiadAbdElFatah/ostep-solutions/commit/ac5dfc140e440f212b0c0b65d4026c53f8c0a85e)
         [https://github.com/ZiadAbdElFatah/ostep-solutions/commit/96020d124bdeae306c993023bd451caf1c94a6a1](https://github.com/ZiadAbdElFatah/ostep-solutions/commit/96020d124bdeae306c993023bd451caf1c94a6a1)
 
----
-
 ## Day 4 (22/9)
 
 - **OSTEP**
@@ -48,32 +41,22 @@
     - Reviewed the changes in this PR
         [https://github.com/JabRef/jabref/pull/17219#pullrequestreview-5276738424](https://github.com/JabRef/jabref/pull/17219#pullrequestreview-5276738424)
 
----
-
 ## Day 5 (23/9)
 
 - **OSTEP**
     - Completed [initial kv](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-kv) and [initial-reverse](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-reverse) projects        
         [https://github.com/ZiadAbdElFatah/ostep-solutions/commit/9d0cde62e5c3f5c0a8d7d1114161856265ef324b](https://github.com/ZiadAbdElFatah/ostep-solutions/commit/9d0cde62e5c3f5c0a8d7d1114161856265ef324b)
         [https://github.com/ZiadAbdElFatah/ostep-solutions/commit/d88701dab11d578276d277d390236d062b36226c](https://github.com/ZiadAbdElFatah/ostep-solutions/commit/d88701dab11d578276d277d390236d062b36226c)
-        
-
----
 
 ## Day 6 (24/9)
 
 - **OSTEP**
     - Finished Chapters 3 and 4
 
----
-
 ## Day 7 (25/9)
 
 - Took the Snowflake assessment and AI interview for the internship    
-    - Got rejected btw 😏 ![[Pasted image 20261004065334.png]]
-    
-
----
+    - Got rejected btw 😏 <img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/4c2bba46-5174-4793-8553-378781e9defb" />
 
 ## Day 8 (26/9)
 
@@ -87,46 +70,32 @@
 - **Head First Design Patterns**
     - Started studying Chapter 3 - Decorator pattern
 
----
-
 ## Day 9 (27/9)
 
 - **OSTEP**
     - Finished Chapter 6
-
----
 
 ## Day 10 (28/9)
 
 - **Search engine project**
     - Worked on adding boolean queries
 
----
-
 ## Day 11 (29/9)
 
 **NULL**
-
----
 
 ## Day 12 (30/9)
 
 **NULL**
 
----
-
 ## Day 13 (1/10)
 
 **NULL**
-
----
 
 ## Day 14 (2/10)
 
 - **OSTEP**
     - Watched Lecture 2: [Part 1](https://youtu.be/JrzJ0qaPao8) (Intro, Virtualizing the CPU), [Part 2](https://youtu.be/ZGyxO52efM4) (Mechanisms), Lecture 3: [Part 1](https://youtu.be/0Vf7sJBqggA) (Virtualizing CPU continued)
-
----
 
 ## Day 15 (3/10)
 
@@ -137,8 +106,6 @@
     - Finished Chapter 3 - Decorator Pattern
         [https://github.com/ZiadAbdElFatah/Design-Patterns/pull/3](https://github.com/ZiadAbdElFatah/Design-Patterns/pull/3)
 
----
-
 ## Day 16 (4/10)
 
 - **OSTEP**
@@ -146,8 +113,6 @@
 	- Watched Discussion: [intro to xv6](https://youtu.be/vR6z2QGcoo8)
 - **Search Engine project**
 	- The project is finally completed now https://github.com/ZiadAbdElFatah/Simple-search-engine
-
----
 
 ## Day 17 (5/10)
 
@@ -157,18 +122,13 @@
 	- Watched discussion: [Shell project](https://youtu.be/wbpooA39jAA)
 	- Started in [Processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell)
 
----
-
 ## Day 18 (6/10)
 
 - **OSTEP**
     - Made a huge progress in the [Processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) (will be finished tomorrow)
-
----
 
 ## Day 19 (7/10)
 
 - **OSTEP**
     - [Processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) is still in progress
  
----
