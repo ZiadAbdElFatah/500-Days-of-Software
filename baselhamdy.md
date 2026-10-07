@@ -32,3 +32,11 @@ Credit Risk Project:
 - Choose threshold 0.136 on out-of-fold probabilities (recall target 0.60)
 - Run final test once on X_test (ROC AUC 0.8676, recall 0.611, precision 0.326)
 - Add README
+
+`Day21 oct 7, 2026`
+
+GSoC Research :
+- Read the NumFOCUS GSoC 2026 list. PyMC, Matplotlib, sbi, SciML and PyTorch-Ignite are all on it
+- Read the ideas pages of PyMC, sbi and PyTorch-Ignite
+- sbi and PyMC fit best. Both need a small PR to apply
+- PyTorch skills must come earlier for sbi
