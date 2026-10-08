@@ -132,3 +132,10 @@
 - **OSTEP**
     - [Processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) is still in progress
  
+## Day 20 (8/10)
+
+- **OSTEP**
+    - [The processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) is finished [here](https://github.com/ZiadAbdElFatah/ostep-solutions/commit/74cc37f9d4474aab22a8fae1903ab50344cb5681)
+- **Design Patterns**
+    - Started Chapter 4 - Factory Pattern
+ 
