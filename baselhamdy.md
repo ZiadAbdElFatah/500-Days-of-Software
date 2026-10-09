@@ -40,3 +40,9 @@ GSoC Research :
 - Read the ideas pages of PyMC, sbi and PyTorch-Ignite
 - sbi and PyMC fit best. Both need a small PR to apply
 - PyTorch skills must come earlier for sbi
+
+`Day22 oct 8, 2026`
+BREAK
+
+`Day23 oct 9, 2026`
+BREAK
