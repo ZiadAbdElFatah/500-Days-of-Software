@@ -65,9 +65,20 @@ Created additional panel on my dashboard :
 ### `8.Mon Oct 5 2026 :`  **Null** 
 
 ---
-### `9.Sun Oct 6 2026 :`  Null
+### `9.Tue Oct 6 2026 :`  Null
 
 ---
-### `10.Sun Oct 7 2026 :`  Null
+### `10.Wed Oct 7 2026 :`  Null
 
 ---
+### `11.Thr Oct 8 2026 :`  Null
+
+---
+### `12.Fri Oct 9 2026 :` 
+- [x] Install Postgres Database into k8s.
+- [x] Configure Postgres Exporters using helm with customized values' yaml file.
+- [X] Used Service Monitor to collect exporters using specific labels and deliver it to Prometheus data base , in the next step Grafana will query those data and visualize it.
+- [x] Reppeat the previous concept on {Mongodb and Redis} databases .
+
+--- 
+
