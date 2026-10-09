@@ -138,4 +138,8 @@
     - [The processes shell project](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) is finished [here](https://github.com/ZiadAbdElFatah/ostep-solutions/commit/74cc37f9d4474aab22a8fae1903ab50344cb5681)
 - **Design Patterns**
     - Started Chapter 4 - Factory Pattern
- 
+
+## Day 21 (9/10)
+
+- **OSTEP**
+	- Finished [Chapter 12 - **A Dialogue on Memory Virtualization**](https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-vm.pdf) and [Chapter 13 - **The Abstraction: Address Spaces**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-intro.pdf)
