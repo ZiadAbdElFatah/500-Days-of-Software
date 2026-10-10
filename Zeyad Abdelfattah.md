@@ -143,3 +143,8 @@
 
 - **OSTEP**
 	- Finished [Chapter 12 - **A Dialogue on Memory Virtualization**](https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-vm.pdf) and [Chapter 13 - **The Abstraction: Address Spaces**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-intro.pdf)
+
+## Day 22 (10/10)
+
+- **OSTEP**
+    - Completed Chapter 13 homework
