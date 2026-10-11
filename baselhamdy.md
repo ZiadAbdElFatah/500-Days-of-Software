@@ -46,3 +46,17 @@ BREAK
 
 `Day23 oct 9, 2026`
 BREAK
+
+#### Week 4
+
+`Day 24 Oct 11, 2026`
+
+Videos :
+- Neural networks started from the idea of copying the brain, but they are only loosely related to it
+- Inputs go through hidden units, and each unit computes one new feature
+- Early layers find simple things like edges, and later layers find bigger things like faces
+- A layer is a group of neurons, and it outputs a vector a
+- Each neuron computes a = sigmoid(w·x + b)
+- a[l] is the output of layer l, and it is the input of layer l+1
+- Forward propagation moves data from x to the output, one layer at a time
+- In the lab, I built single neurons and layers in code
