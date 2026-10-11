@@ -148,3 +148,14 @@
 
 - **OSTEP**
     - Completed Chapter 13 homework
+
+## Day 23 (11/10)
+
+- **OSTEP**
+	- Finished [Chapter 15 - **Address Translation mechanism**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-mechanism.pdf)
+	- Watched Lecture 4: [Part 2](https://youtu.be/Mu-8BOP-ctM) (Intro to Memory Virtualization)
+- **Design Patterns**
+	- Continued reading Chapter 4 - Factory Pattern
+- **Open Source**
+	- Had some searching for new orgs to contribute to
+
