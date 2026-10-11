@@ -49,7 +49,10 @@ BREAK
 
 #### Week 4
 
-`Day 24 Oct 11, 2026`
+`Day 24 Oct 10, 2026`
+BREAK
+
+`Day 25 Oct 11, 2026`
 
 Videos :
 - Neural networks started from the idea of copying the brain, but they are only loosely related to it
