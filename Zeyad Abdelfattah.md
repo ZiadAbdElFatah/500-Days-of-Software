@@ -159,3 +159,10 @@
 - **Open Source**
 	- Had some searching for new orgs to contribute to
 
+## Day 24 (12/10)
+
+- **OSTEP**
+	- Finished [Chapter 16 - **Segmentation**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-segmentation.pdf)
+- **Open Source**
+	- Continued searching for new orgs to contribute to
+
