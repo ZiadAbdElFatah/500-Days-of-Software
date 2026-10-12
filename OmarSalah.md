@@ -77,3 +77,7 @@
 - Deployed the frontend to GitHub Pages and refactored all colors into CSS variables and added Dark Mode with `prefers-color-scheme`
 - Added responsive design with a media query and global `box-sizing: border-box`
 - Repo: [Football-Management-System-Frontend](https://github.com/omar-ahmed62/football-management-frontend)
+
+`19.Monday Oct 12, 2026 :`
+- Started Bootstrap 5.3
+- Learned Container, Grid , spacing utilities  and Alert/Card basics while practicing in a test page
