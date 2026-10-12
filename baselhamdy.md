@@ -63,3 +63,16 @@ Videos :
 - a[l] is the output of layer l, and it is the input of layer l+1
 - Forward propagation moves data from x to the output, one layer at a time
 - In the lab, I built single neurons and layers in code
+
+`Day26 oct 12, 2026`
+
+1.Videos :
+
+-Andrew Ng ML Specialization: "Inference in Code"
+-Andrew Ng ML Specialization: "Data in TensorFlow"
+-Andrew Ng ML Specialization: "Building a Neural Network"
+
+2.What I Learned :
+
+-I can build a layer with `Dense(units=3, activation='sigmoid')`, call it on `x` to get `a1`, and pass `a1` to the next layer. TensorFlow uses matrices, so one example is `[[200.0, 17.0]]`, and `.numpy()` converts a tensor to a NumPy array
+-`Sequential([layer_1, layer_2])` joins the layers. Then `compile` sets the loss, `fit` trains, and `predict` does inference
