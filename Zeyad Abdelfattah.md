@@ -166,3 +166,10 @@
 - **Open Source**
 	- Continued searching for new orgs to contribute to
 
+## Day 25 (13/10)
+
+- **OSTEP**
+	- Watched Lecture 5: [Part 1](https://youtu.be/tJF49_iv0-w) (where we are with virtualization, base/bounds) [Part 2](https://youtu.be/wcO2Sm4qIs0) (base/bounds, segmentation) and [general discussion](https://youtu.be/rXWdi7Pa49U)
+- **Open Source**
+	- Continued searching for new orgs to contribute to
+
