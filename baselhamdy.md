@@ -93,6 +93,7 @@ Videos:
 -Practiced neural network training, binary classification, model predictions, and understanding how neural networks learn from data.
 
 2.Gsoc
+
 -Reviewed 5 GSoC organizations: sbi, PyMC, PyTorch-Ignite, Matplotlib, and SciML.
 -Eliminated Matplotlib and SciML due to project mismatch and language requirements.
 -Completed Coffee Roasting labs using NumPy and TensorFlow, plus the Neural Networks for Binary Classification practice lab in Andrew Ng’s ML Specialization.
