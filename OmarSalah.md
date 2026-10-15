@@ -81,3 +81,14 @@
 `19.Monday Oct 12, 2026 :`
 - Started Bootstrap 5.3
 - Learned Container, Grid , spacing utilities  and Alert/Card basics while practicing in a test page
+
+`20.Thursday Oct 15, 2026 :`
+- Finished the Bootstrap playlist (components like Navbar, Forms, Carousel, Modal, and Pagination)
+
+- Applied it to the Football Management System project:
+  - Added Bootstrap CSS and JS files (`css/bootstrap.css` and `js/bootstrap.bundle.min.js`) and linked them in the pages
+  - Built a confirm Modal on the Add Team page, Used Bootstrap Alert for the success message 
+  - Repo: [Football-Management-System-Frontend](https://github.com/omar-ahmed62/football-management-frontend)
+- Finally, Week 3 is done! Taking a one-week break to focus on quizzes 
+
+### Week 4 
