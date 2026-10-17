@@ -88,13 +88,37 @@ Videos:
 1.Machine Learning 
 
 -Completed the Coffee Roasting neural network lab using NumPy implementing forward propagation and backpropagation from scratch.
+
 -Reimplemented the Coffee Roasting model using TensorFlow to build and train a neural network.
+
 -Completed the Neural Networks for Binary Classification practice lab.
+
 -Practiced neural network training, binary classification, model predictions, and understanding how neural networks learn from data.
 
 2.Gsoc
 
 -Reviewed 5 GSoC organizations: sbi, PyMC, PyTorch-Ignite, Matplotlib, and SciML.
+
 -Eliminated Matplotlib and SciML due to project mismatch and language requirements.
+
 -Completed Coffee Roasting labs using NumPy and TensorFlow, plus the Neural Networks for Binary Classification practice lab in Andrew Ng’s ML Specialization.
+
 -Chose sbi as my main GSoC 2027 target and will start looking for a good first issue.
+
+`Day29 oct 15, 2026`
+
+MIT Intro to algorithms:
+
+Lecture 1 "Algorithms and Computation"
+
+`Day30 oct 16, 2026`
+
+MIT Intro to algorithms:
+
+Lecture 2 "Data Structures and Dynamic Arrays"
+
+#### Week 5
+
+`Day31 oct 17, 2026`
+
+Break
