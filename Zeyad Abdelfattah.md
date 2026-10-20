@@ -192,3 +192,11 @@
 ## Day 30 (18/10)
 
 **NULL**
+
+## Day 31 (19/10)
+
+- **Open Source**
+	- Submitted [this PR](https://github.com/JabRef/user-documentation/pull/700) and updated [this one](https://github.com/JabRef/jabref/pull/17220)
+ - **OSTEP**
+	- Started [Chapter 18 - **Introduction to Paging**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-paging.pdf)
+
