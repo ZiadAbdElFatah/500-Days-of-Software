@@ -197,6 +197,10 @@
 
 - **Open Source**
 	- Submitted [this PR](https://github.com/JabRef/user-documentation/pull/700) and updated [this one](https://github.com/JabRef/jabref/pull/17220)
- - **OSTEP**
+- **OSTEP**
 	- Started [Chapter 18 - **Introduction to Paging**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-paging.pdf)
+
+## Day 32 (20/10)
+- **OSTEP**
+	- Finished [Chapter 18 - **Introduction to Paging**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-paging.pdf)
 
