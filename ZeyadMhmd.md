@@ -1,6 +1,6 @@
-#### Zeyad Mohamed - 500 Days of Security 
+# Zeyad Mohamed - 500 Days of Security 
 
-# Ethical Hacking — Phase 01 (15 Days)
+## Ethical Hacking — Phase 01 (15 Days)
 
 ## Overview
 Completed the first 15 days of my Ethical Hacking learning journey, focusing on security fundamentals, reconnaissance, network scanning, and enumeration.
@@ -55,6 +55,8 @@ Completed the first 15 days of my Ethical Hacking learning journey, focusing on 
 - **Service Enumeration:** Enum4linux, smbclient, snmpwalk, rpcclient, ldapsearch, nbtscan
 - **Web Enumeration:** cURL, Gobuster, Dirsearch, Feroxbuster, Nikto
 - **Environment:** Kali Linux
+
+
 
 ## Day 16-20 
 null
