@@ -204,3 +204,6 @@
 - **OSTEP**
 	- Finished [Chapter 18 - **Introduction to Paging**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-paging.pdf)
 
+## Day 33 (21/10)
+- **Open Source**
+	- Applied to [MLH fellowship](https://fellowship.mlh.com/)
