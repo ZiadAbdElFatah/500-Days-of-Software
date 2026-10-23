@@ -207,3 +207,7 @@
 ## Day 33 (21/10)
 - **Open Source**
 	- Applied to [MLH fellowship](https://fellowship.mlh.com/)
+
+## Day 34 (22/10)
+
+**NULL**
