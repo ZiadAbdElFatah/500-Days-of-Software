@@ -201,13 +201,22 @@
 	- Started [Chapter 18 - **Introduction to Paging**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-paging.pdf)
 
 ## Day 32 (20/10)
+
 - **OSTEP**
 	- Finished [Chapter 18 - **Introduction to Paging**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-paging.pdf)
 
 ## Day 33 (21/10)
+
 - **Open Source**
 	- Applied to [MLH fellowship](https://fellowship.mlh.com/)
 
 ## Day 34 (22/10)
 
 **NULL**
+
+## Day 35 (23/10)
+
+- **OSTEP**
+	- Watched lecture 09/28: [Part 1](https://youtu.be/6C6jNI7FfAg) (intro to paging) [Part 2](https://youtu.be/m77_vCxPkf8) (problems with paging) [Part 3](https://youtu.be/7cv_8FQQ3qk) (wrap-up)
+- **ICPC**
+	- Upsolved [Contest 3 | level 0](https://drive.google.com/file/d/1FK0SRG7__Pdw8dZzmL73hWO8P8A_dOBs/view?usp=sharing)
