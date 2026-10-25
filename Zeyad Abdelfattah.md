@@ -219,4 +219,12 @@
 - **OSTEP**
 	- Watched lecture 09/28: [Part 1](https://youtu.be/6C6jNI7FfAg) (intro to paging) [Part 2](https://youtu.be/m77_vCxPkf8) (problems with paging) [Part 3](https://youtu.be/7cv_8FQQ3qk) (wrap-up)
 - **ICPC**
-	- Upsolved [Contest 3 | level 0](https://drive.google.com/file/d/1FK0SRG7__Pdw8dZzmL73hWO8P8A_dOBs/view?usp=sharing)
+	- Upsolved [Contest 3 | level 0](https://youtu.be/uNxdQLYx07U)
+
+## Day 35 (24/10)
+
+**NULL**
+
+## Day 36 (25/10)
+
+**NULL**
