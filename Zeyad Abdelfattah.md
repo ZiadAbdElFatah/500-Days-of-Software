@@ -217,7 +217,7 @@
 ## Day 35 (23/10)
 
 - **OSTEP**
-	- Watched lecture 09/28: [Part 1](https://youtu.be/6C6jNI7FfAg) (intro to paging) [Part 2](https://youtu.be/m77_vCxPkf8) (problems with paging) [Part 3](https://youtu.be/7cv_8FQQ3qk) (wrap-up)
+	- Watched lecture 6: [Part 1](https://youtu.be/6C6jNI7FfAg) (intro to paging) [Part 2](https://youtu.be/m77_vCxPkf8) (problems with paging) [Part 3](https://youtu.be/7cv_8FQQ3qk) (wrap-up)
 - **ICPC**
 	- Upsolved [Contest 3 | level 0](https://youtu.be/uNxdQLYx07U)
 
@@ -232,3 +232,12 @@
 ## Day 37 (26/10)
 
 **NULL**
+
+## Day 38 (27/10)
+
+- **OSTEP**
+	- Finished [Chapter 19 - **Paging: TLBs**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-tlbs.pdf)
+	- Watched lecture 7: [Part 1](https://youtu.be/gWZ3gngEhhk) (intro to TLBs) [Part 2](https://youtu.be/iqUGkuorPK4) (more TLB stuff)
+- **Open Source**
+	- Learned a lot about [SW360](https://eclipse.dev/sw360/)
+
