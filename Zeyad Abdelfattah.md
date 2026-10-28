@@ -241,3 +241,11 @@
 - **Open Source**
 	- Learned a lot about [SW360](https://eclipse.dev/sw360/)
 
+## Day 39 (28/10)
+
+- **OSTEP**
+	- Finished [Chapter 20 - **Paging: Smaller**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-smalltables.pdf)
+	- Watched lecture 8: [Part 1](https://youtu.be/HBrznAKj4ig) [Part 2](https://youtu.be/C_FJ2mFR_us) [Part 3](https://youtu.be/C_FJ2mFR_us)
+- **Open Source**
+	- Learned a lot about [Mifos](https://mifos.org/)
+
