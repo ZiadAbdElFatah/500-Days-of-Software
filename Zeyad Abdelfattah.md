@@ -249,3 +249,8 @@
 - **Open Source**
 	- Learned a lot about [Mifos](https://mifos.org/)
 
+## Day 40 (29/10)
+
+- **OSTEP**
+	- Watched review: [Part 1](https://youtu.be/CUsFrBKSyCU)
+
