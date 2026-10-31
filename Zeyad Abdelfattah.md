@@ -254,3 +254,8 @@
 - **OSTEP**
 	- Watched review: [Part 1](https://youtu.be/CUsFrBKSyCU)
 
+## Day 41 (30/10)
+
+- **OSTEP**
+	- Started [Chapter 21 - **Beyond Physical Memory: Mechanisms**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-beyondphys.pdf)
+
