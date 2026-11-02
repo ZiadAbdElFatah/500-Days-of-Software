@@ -270,3 +270,9 @@
 - **OSTEP**
 	- Started [Chapter 22 - **Beyond Physical Memory: Policies**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-beyondphys-policy.pdf)
 
+## Day 44 (2/11)
+
+- **OSTEP**
+	- Finished [Chapter 22 - **Beyond Physical Memory: Policies**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-beyondphys-policy.pdf)
+	- Watched lecture 9: [Part 2](https://mediaspace.wisc.edu/media/1_pffhy05u)(swapping policies)
+
