@@ -265,3 +265,8 @@
 	- Finished [Chapter 21 - **Beyond Physical Memory: Mechanisms**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-beyondphys.pdf)
  	- Watched lecture 9: [Part 1](https://mediaspace.wisc.edu/media/1_pffhy05u)(swapping mechanisms)
  
+## Day 43 (1/11)
+
+- **OSTEP**
+	- Started [Chapter 22 - **Beyond Physical Memory: Policies**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-beyondphys-policy.pdf)
+
