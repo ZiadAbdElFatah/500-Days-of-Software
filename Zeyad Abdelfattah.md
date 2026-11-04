@@ -276,3 +276,11 @@
 	- Finished [Chapter 22 - **Beyond Physical Memory: Policies**](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/vm-beyondphys-policy.pdf)
 	- Watched lecture 9: [Part 2](https://mediaspace.wisc.edu/media/1_pffhy05u)(swapping policies)
 
+## Day 45 (3/11)
+
+- **OSTEP**
+	- Finished [Chapter 24 - **Summary on Memory Virtualization**](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-dialogue.pdf) (Virtualization is **DONE**)
+ 	- Revised CPU virtualization part
+- **Open Source**
+	- Fixed this [small bug](https://github.com/JabRef/jabref/pull/17674)
+
