@@ -284,3 +284,16 @@
 - **Open Source**
 	- Fixed this [small bug](https://github.com/JabRef/jabref/pull/17674)
 
+---
+
+<div align="center">
+
+# 📚 MIDTERM SEASON
+
+`04 NOV — 12 NOV`
+
+**A temporary pause in the journey.**
+
+</div>
+
+---
