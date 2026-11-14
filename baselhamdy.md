@@ -122,3 +122,6 @@ Lecture 2 "Data Structures and Dynamic Arrays"
 `Day31 oct 17, 2026`
 
 Break
+
+`Days 32 to 58 `
+Midterm Break
