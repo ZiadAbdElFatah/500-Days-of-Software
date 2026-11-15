@@ -91,4 +91,12 @@
   - Repo: [Football-Management-System-Frontend](https://github.com/omar-ahmed62/football-management-frontend)
 - Finally, Week 3 is done! Taking a one-week break to focus on quizzes 
 
+## Oct 16, 2026 to Nov 15, 2026
+
+- Quizzes, Mid-term break
+
+
 ### Week 4 
+`21.Monday Nov 16, 2026 :`
+
+
