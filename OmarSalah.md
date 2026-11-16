@@ -92,11 +92,12 @@
 - Finally, Week 3 is done! Taking a one-week break to focus on quizzes 
 
 ## Oct 16, 2026 to Nov 15, 2026
-
 - Quizzes, Mid-term break
 
 
 ### Week 4 
 `21.Monday Nov 16, 2026 :`
 
+ - Started my 6-week revision plan after a study break, before moving on to ASP.NET Core MVC and Web API.
 
+ - Week 1: C# Fundamentals and OOP, covering classes, objects, constructors, encapsulation, inheritance, polymorphism, abstraction, and interfaces.
