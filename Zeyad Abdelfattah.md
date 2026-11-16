@@ -297,3 +297,9 @@
 </div>
 
 ---
+
+## Day 46 (16/11)
+
+- **OSTEP**
+	- Finished first post in the xv6 tutorial: [Das Boot](https://github.com/palladian1/xv6-annotated/blob/main/boot.md)
+
