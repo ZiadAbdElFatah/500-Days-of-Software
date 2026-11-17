@@ -124,4 +124,28 @@ Lecture 2 "Data Structures and Dynamic Arrays"
 Break
 
 `Days 32 to 58 `
+
 Midterm Break
+
+#### Week 9
+
+`Day59 Nov 14, 2026`
+
+Gsoc:
+-forked sbi repo, created a virtual env
+
+-downloaded sbi in editable mode
+
+-read the contribution guide
+
+`Day60 Nov 15, 2026`
+Break
+
+`Day61 Nov 16, 2026`
+
+ML:
+-Learned about neural network trainig and how to implement in tensor flow
+
+-New activation functions for neural network(ReLU,Linear Activation Function)
+
+-Softmax regression that is a generilization of logistic regression, how to use it to implemet Multiclass classification
