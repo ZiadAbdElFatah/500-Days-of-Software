@@ -303,3 +303,10 @@
 - **OSTEP**
 	- Finished first post in the xv6 tutorial: [Das Boot](https://github.com/palladian1/xv6-annotated/blob/main/boot.md)
 
+## Day 47 (17/11)
+
+- **OSTEP**
+	- Watched Discussion: [intro to xv6](https://youtu.be/vR6z2QGcoo8)
+- **Open Source**
+	- Investigated some parts of [SW360](https://eclipse.dev/sw360/)
+
