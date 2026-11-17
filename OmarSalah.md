@@ -101,3 +101,7 @@
  - Started my 6-week revision plan after a study break, before moving on to ASP.NET Core MVC and Web API.
 
  - Week 1: C# Fundamentals and OOP, covering classes, objects, constructors, encapsulation, inheritance, polymorphism, abstraction, and interfaces.
+
+`22.Tuesday Nov 17, 2026 :`
+- Revision plan, Day 2: reviewed C# fundamentals: value types vs reference types
+- Reviewed OOP basics: classes, objects, and constructors
