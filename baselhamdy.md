@@ -154,6 +154,7 @@ ML:
 `Day62 Nov 17, 2026`
 
 ML:
+
 -learned about best practices for implementing neural networks
 
 -did Softmax, multilabel classification label
@@ -163,4 +164,5 @@ ML:
 Gsoc:
 
 -looked at new orgs (kubeflow, ML4SCI, openvino)
+
 -Watched 3Blue1Brown "Bayes theorem, the geometry of changing beliefs" to understand idea behind sbi
