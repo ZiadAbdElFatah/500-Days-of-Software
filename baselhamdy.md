@@ -144,8 +144,25 @@ Break
 `Day61 Nov 16, 2026`
 
 ML:
+
 -Learned about neural network trainig and how to implement in tensor flow
 
 -New activation functions for neural network(ReLU,Linear Activation Function)
 
 -Softmax regression that is a generilization of logistic regression, how to use it to implemet Multiclass classification
+
+`Day62 Nov 17, 2026`
+
+ML:
+
+-learned about best practices for implementing neural networks
+
+-did Softmax, multilabel classification label
+
+-did week 2 programming assignment from Adv learning algorithms course
+
+Gsoc:
+
+-looked at new orgs (kubeflow, ML4SCI, openvino)
+
+-Watched 3Blue1Brown "Bayes theorem, the geometry of changing beliefs" to understand idea behind sbi
