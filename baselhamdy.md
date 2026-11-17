@@ -144,6 +144,7 @@ Break
 `Day61 Nov 16, 2026`
 
 ML:
+
 -Learned about neural network trainig and how to implement in tensor flow
 
 -New activation functions for neural network(ReLU,Linear Activation Function)
