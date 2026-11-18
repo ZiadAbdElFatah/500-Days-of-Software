@@ -298,15 +298,21 @@
 
 ---
 
-## Day 46 (16/11)
+## Day 46 (15/11)
 
 - **OSTEP**
 	- Finished first post in the xv6 tutorial: [Das Boot](https://github.com/palladian1/xv6-annotated/blob/main/boot.md)
 
-## Day 47 (17/11)
+## Day 47 (16/11)
 
 - **OSTEP**
 	- Watched Discussion: [intro to xv6](https://youtu.be/vR6z2QGcoo8)
 - **Open Source**
 	- Investigated some parts of [SW360](https://eclipse.dev/sw360/)
+
+## Day 48 (17/11)
+
+- **OSTEP**
+	- Finished [initial xv6](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-xv6) project, [solution](https://github.com/ZiadAbdElFatah/xv6-public/commit/c652bf16d2805c89cde9f3a7336ab50d41267635)
+
 
