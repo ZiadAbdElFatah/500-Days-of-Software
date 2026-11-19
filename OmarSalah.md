@@ -105,3 +105,9 @@
 `22.Tuesday Nov 17, 2026 :`
 - Revision plan, Day 2: reviewed C# fundamentals: value types vs reference types
 - Reviewed OOP basics: classes, objects, and constructors
+
+`23.Wednesday Nov 18, 2026 :`
+- NULL => University day
+
+`24.Thursday Nov 19, 2026 :`
+- Revision Plan – Day 3: Reviewed OOP fundamentals, covering Abstraction, Encapsulation, Properties, and Access Modifiers.
