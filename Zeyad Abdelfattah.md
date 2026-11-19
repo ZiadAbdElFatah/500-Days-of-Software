@@ -321,3 +321,8 @@
 	- Finished [Chapter 25 - Dialogue on Concurrency](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/dialogue-concurrency.pdf), [Chapter 26 - Concurrency: Introduction](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/threads-intro.pdf)
  	- Watched lecture 10: [Part 1](https://www.youtube.com/watch?v=yHnJiUA20wk)
 
+## Day 50 (19/11)
+
+- **OSTEP**
+ 	- Watched lecture 10: [Part 2](https://www.youtube.com/watch?v=9-VYk6OTT-A)
+
