@@ -315,4 +315,9 @@
 - **OSTEP**
 	- Finished [initial xv6](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-xv6) project, [solution](https://github.com/ZiadAbdElFatah/xv6-public/commit/c652bf16d2805c89cde9f3a7336ab50d41267635)
 
+## Day 49 (18/11)
+
+- **OSTEP**
+	- Finished [Chapter 25 - Dialogue on Concurrency](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/dialogue-concurrency.pdf), [Chapter 26 - Concurrency: Introduction](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/threads-intro.pdf)
+ 	- Watched lecture 10: [Part 1](https://www.youtube.com/watch?v=yHnJiUA20wk)
 
