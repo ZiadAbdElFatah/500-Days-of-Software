@@ -111,3 +111,8 @@
 
 `24.Thursday Nov 19, 2026 :`
 - Revision Plan – Day 3: Reviewed OOP fundamentals, covering Abstraction, Encapsulation, Properties, and Access Modifiers.
+
+`25.Friday Nov 20, 2026 :`
+- Revision Plan – Day 4: Reviewed C# fundamentals, focusing on the differences between enum and struct.
+- OOP Revision: Continued the session on Encapsulation, reviewing its core concepts and implementation.
+- OS Practical: Started setting up the Linux environment and downloading the required tools.
