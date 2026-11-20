@@ -139,6 +139,7 @@ Gsoc:
 -read the contribution guide
 
 `Day60 Nov 15, 2026`
+
 Break
 
 `Day61 Nov 16, 2026`
@@ -166,3 +167,19 @@ Gsoc:
 -looked at new orgs (kubeflow, ML4SCI, openvino)
 
 -Watched 3Blue1Brown "Bayes theorem, the geometry of changing beliefs" to understand idea behind sbi
+
+`Day63 Nov 18, 2026`
+
+gsoc:
+
+-started working on issue#200 pytorch ignite
+
+`Day64 Nov 19, 2026`
+
+ML:
+-learned about lasso and ridge regularization, their penalties, implementation
+
+`Day65 Nov 20, 2026`
+
+Break
+
