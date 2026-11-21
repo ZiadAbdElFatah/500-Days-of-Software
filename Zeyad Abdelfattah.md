@@ -326,3 +326,8 @@
 - **OSTEP**
  	- Watched lecture 10: [Part 2](https://www.youtube.com/watch?v=9-VYk6OTT-A)
 
+## Day 51 (20/11)
+
+- **OSTEP**
+	- Did [Chapter 26 - Concurrency: Introduction's homework](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/threads-intro.pdf)
+
