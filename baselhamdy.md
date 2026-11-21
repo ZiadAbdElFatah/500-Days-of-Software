@@ -183,3 +183,18 @@ ML:
 
 Break
 
+#### Week 10
+
+`Day66 Nov 21, 2026`
+
+ML:
+
+-Finished week 3 from adv learning algorithm
+
+-learned about model evaluation, selection, cross validation
+
+-bias, variance, learning curves
+
+-error analysis, adding data, full ml model dev cycle
+
+-did week 3 programming assignment
