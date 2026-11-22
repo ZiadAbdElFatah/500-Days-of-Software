@@ -339,3 +339,12 @@
 - **Design Pattern**
 	- Finished [Chapter 4 - Factory Pattern](https://github.com/ZiadAbdElFatah/Design-Patterns/pull/4)
 
+## Day 53 (22/11)
+
+- **OSTEP**
+	- Watched [Discussion - Lottery Scheduling in xv6](https://youtu.be/eYfeOT1QYmg)
+ 	- Finished [An xv6 Lottery Scheduler](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/scheduling-xv6-lottery) project, solution: [Part 1](https://github.com/mit-pdos/xv6-public/commit/f0d1b4bbaafb917255aa640f0c449a6d88da3587), [Part 2](https://github.com/mit-pdos/xv6-public/commit/8f81db434d81f0f0762f7543f8ddee1d13de541c)
+
+- **Design Pattern**
+	- Finished Chapter 5 - Singleton Pattern
+
