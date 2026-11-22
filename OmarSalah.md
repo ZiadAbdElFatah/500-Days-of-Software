@@ -120,3 +120,9 @@
 `26.Saturday Nov 21, 2026 :`
 -  السبت الممتاز
 - OS Practical: Started a Linux Crash Course, covering terminal basics and an introduction to Bash, including environment variables and the export and unset commands.
+
+`27.Sunday Nov 22, 2026 :`
+- OS Practical: Continued the Bash Basics videos. 
+- [Notes](https://far-unicorn-4d7.notion.site/OS-Practical-Bash-41f8d5ed724c81c79dadc775bd37df39?source=copy_link)
+
+
