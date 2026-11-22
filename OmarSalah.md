@@ -116,3 +116,7 @@
 - Revision Plan – Day 4: Reviewed C# fundamentals, focusing on the differences between enum and struct.
 - OOP Revision: Continued the session on Encapsulation, reviewing its core concepts and implementation.
 - OS Practical: Started setting up the Linux environment and downloading the required tools.
+
+`26.Saturday Nov 21, 2026 :`
+-  السبت الممتاز
+- OS Practical: Started a Linux Crash Course, covering terminal basics and an introduction to Bash, including environment variables and the export and unset commands.
