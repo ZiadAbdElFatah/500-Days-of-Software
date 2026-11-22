@@ -198,3 +198,7 @@ ML:
 -error analysis, adding data, full ml model dev cycle
 
 -did week 3 programming assignment
+
+`Day67 Nov 22, 2026`
+
+Midterm COntrol 1 ˙◠˙ 
