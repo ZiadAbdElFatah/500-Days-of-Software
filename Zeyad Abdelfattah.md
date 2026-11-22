@@ -331,3 +331,11 @@
 - **OSTEP**
 	- Did [Chapter 26 - Concurrency: Introduction's homework](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/threads-intro.pdf)
 
+## Day 52 (21/11)
+
+- **OSTEP**
+	- Watched [Discussion](https://youtu.be/YGo3cXvQBy4)
+
+- **Design Pattern**
+	- Finished [Chapter 4 - Factory Pattern](https://github.com/ZiadAbdElFatah/Design-Patterns/pull/4)
+
