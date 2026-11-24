@@ -202,3 +202,13 @@ ML:
 `Day67 Nov 22, 2026`
 
 Midterm COntrol 1 ˙◠˙ 
+
+`Day68 Nov 23, 2026`
+
+Break
+
+`Day69 Nov 24, 2026`
+
+CS:
+
+-Finished Bash scripting basics
