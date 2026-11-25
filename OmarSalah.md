@@ -125,4 +125,7 @@
 - OS Practical: Continued the Bash Basics videos. 
 - [Notes](https://far-unicorn-4d7.notion.site/OS-Practical-Bash-41f8d5ed724c81c79dadc775bd37df39?source=copy_link)
 
+`28,29.Nov 23,24 2026 :`
+- OS Practical: Finished the [Bash Basics video](https://www.youtube.com/watch?v=SUGVnZLVT20). 
 
+- [Notes](https://far-unicorn-4d7.notion.site/OS-Practical-Bash-41f8d5ed724c81c79dadc775bd37df39?source=copy_link)
