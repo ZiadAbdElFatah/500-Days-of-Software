@@ -366,3 +366,7 @@
 - **Design Pattern**
 	- Finished Chapter 6 - Command Pattern
 
+## Day 56 (25/11)
+
+- Watched [Bash crash course](https://youtu.be/tK9Oc6AEnR4)
+
