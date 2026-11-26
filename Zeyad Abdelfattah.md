@@ -370,3 +370,9 @@
 
 - Watched [Bash crash course](https://youtu.be/tK9Oc6AEnR4)
 
+## Day 57 (26/11)
+
+- **OSTEP**
+	- Finished [Chapter 28 - Locks](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Book/threads-locks.pdf)
+	- Watched [Lecture 11: Part 2 hardware locks - spin and ticket](https://www.youtube.com/watch?v=hrj4u850M5A), [Lecture 12: Part 1 - os based locks](https://www.youtube.com/watch?v=AG8UiHog968)
+
