@@ -212,3 +212,23 @@ Break
 CS:
 
 -Finished Bash scripting basics
+
+`Day70 Nov 25, 2026`
+
+ML:
+
+-Started learning decision tress
+
+gsoc:
+
+-looked at new orgs like mesa, ML4SCI
+
+`Day71 Nov 26, 2026`
+
+gsoc:
+
+-read the cont. guide of mesa and joined discord
+
+-went through the tutorials and built my first agent
+
+-looked at open issues and labeled some good first issues
