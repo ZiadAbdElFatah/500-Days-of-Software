@@ -20,3 +20,20 @@
 ## Day 5 (22/11)
 - Finished the JWT security [PR](https://github.com/abdalrahmanehab/spring-commerce/pull/8): added login, user endpoints, role-based rules, and IDOR checks, tested in Postman, and merged into main
 
+## Day 6 (23/11)
+- Revised Spring Security and JWT in depth, focusing on interview topics
+- Planned the next steps for spring-commerce: pagination, N+1 fix, testing, concurrency and Docker
+
+## Day 7 (24/11)
+- Added DTO validation to spring-commerce (cart quantity and price limits)
+- Added optimistic locking (@Version) to Product and Order
+- Moved ProductRepository to Spring Data JPA and updated the Liquibase migrations
+
+## Day 8 (25/11)
+- Started contributing to Apache Fineract (FINERACT-3254)
+- Studied how QueryDSL is used in the codebase
+
+## Day 9 (26/11)
+- Moved retrieveAllActiveAdHocQuery from native SQL to QueryDSL (SQLQueryFactory)
+- Added PostgreSQL and MySQL unit tests and ran Spotless
+- Opened the FINERACT-3254 pull request
